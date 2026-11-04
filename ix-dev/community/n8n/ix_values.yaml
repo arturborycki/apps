@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/n8n-io/n8n
-    tag: "2.47.1@sha256:1e5f8e7c6b08a1f34cb7ae3c62bfdc914a2bd69e8069e4ac1e488c94bd9299ff"
+    tag: "3.1.0@sha256:6e9f220e9cf0d2f17d3c2371c8d8a6fe6720f99b82a9672afb96bf068cfd04a5"
   task_runner_image:
     repository: ghcr.io/n8n-io/runners
     tag: "2.47.1@sha256:cf2ad421e8606f99b0571e6f466e6868b37e71356d3fbb0d86ad7a2610b53e5f"
